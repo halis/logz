@@ -81,8 +81,8 @@ See below.
 	/* The following will be stored in hot.logz and logged in the console:
 	784a1b2d-ce9e-c3e0-c6fe-d6945ec78a57::::2015-10-14T13:35:45::::World
 	Error
-	    at Function.exports.log (/Users/cjgrim/dx/aar/logz.js:188:10)
-	    at Object.<anonymous> (/Users/cjgrim/dx/aar/test2.js:4:6)
+	    at Function.exports.log (/Users/your-username/someproject/logz.js:188:10)
+	    at Object.<anonymous> (/Users/your-username/someproject/test2.js:4:6)
 	    at Module._compile (module.js:460:26)
 	    at Object.Module._extensions..js (module.js:478:10)
 	    at Module.load (module.js:355:32)
